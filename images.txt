@@ -7,5 +7,6 @@
 #tiangolo/uwsgi-nginx-flask:latest
 #nvidia/cuda:12.4.1-cudnn-devel-ubuntu20.04
 #nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
-vllm/vllm-openai:latest
+#vllm/vllm-openai:latest
+justsong/one-api 
 
