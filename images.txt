@@ -9,5 +9,8 @@
 #nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
 #vllm/vllm-openai:latest
 #justsong/one-api 
-xprobe/xinference
+#xprobe/xinference
+redis
+mysql:8.2.0
+
 
