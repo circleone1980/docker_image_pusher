@@ -14,7 +14,7 @@
 #mysql:8.2.0
 #nvidia/cuda:12.5.1-cudnn-devel-ubuntu20.04
 #nvidia/cuda:12.5.1-cudnn-devel-ubuntu22.04
-nvidia/cuda:12.7.1-cudnn-devel-ubuntu22.04
+#nvidia/cuda:12.7.1-cudnn-devel-ubuntu22.04
 mysql:8.0.39
 valkey/valkey:8
 
